@@ -20,4 +20,4 @@ Web disponible en: https://github.com/nachoyubero/p4.git
 
 ## Autor
 
-Tu Nombre — 2026
+Nacho Yubero — 2026
